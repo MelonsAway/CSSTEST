@@ -1,0 +1,19 @@
+.header {
+   background-color: purple;
+        }
+.font {
+   font-family: 'Black Ops One', cursive;
+      }
+.border {
+   border: 20px ridge blue;
+   border-radius: 5px;
+        }
+.pic {
+   width: 100px;
+     }
+.pic2 {
+   border-width: 10em;
+   border-color: black;
+   border-radius: 50%;
+   width: 200px;
+      }

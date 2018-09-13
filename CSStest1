@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-us">
+ <head>
+  <meta charset="UTF-8">
+  <link href="CSStest1.css" rel="stylesheet" type="text/css">  
+  <link href="https://fonts.googleapis.com/css?family=Black+Ops+One" rel="stylesheet">
+  <title>CSStest1</title>
+ </head>
+ <body>
+  <h1 class="header">h1</h1>
+  <h2 class="header">h2</h2>
+  <img src="http://cdn2.btrstatic.com/pics/hostpics/thumbs/d72ec9f1-082c-48b9-8707-e7357bd3e88c_d20io.jpg" alt="Geek I/O Network-Epxloding Dice Logo" class="pic2">
+  <p class="font">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent placerat nec sem ut eleifend. Donec at lacus posuere, aliquam ante vitae, venenatis quam. Vestibulum semper turpis augue, vitae aliquam tellus luctus quis. Fusce nisl lorem, euismod semper erat id, ullamcorper varius orci. Vestibulum hendrerit tortor vitae varius faucibus. Fusce felis turpis, scelerisque vel molestie ac, faucibus eget enim. Vivamus fermentum, nisl quis porta fringilla, tortor elit gravida ante, in lacinia urna sem vel est.</p>
+  <img src="http://cdn2.btrstatic.com/pics/hostpics/thumbs/d72ec9f1-082c-48b9-8707-e7357bd3e88c_d20io.jpg" alt="Geek I/O Network-Epxloding Dice Logo" class="pic">
+  <p class="border"> Phasellus a posuere ipsum, nec ultrices lacus. Maecenas posuere lorem non sem venenatis, vitae bibendum arcu tincidunt. Pellentesque eros odio, pellentesque nec ipsum id, bibendum mattis ante. Curabitur a quam mauris. Mauris eu egestas metus. In non nulla ex. Cras ornare iaculis vulputate. Pellentesque ut erat non ligula porttitor consectetur semper non nisl. Aliquam pulvinar id ipsum sed vestibulum.</p> 
+ </body>
+</html>
+
